@@ -7,14 +7,14 @@ const styles = StyleSheet.create({
   marginTopText: {
     marginTop: 10,
     color:"white",
-    fontSize:18
+    fontSize:20
   },
   tinyLogo: {
     width: 100,
     height: 100,
   },
   textImcResponse: {
-    fontSize:25,
+    fontSize:30,
     fontWeight:"bold",
     color:"white",
   },

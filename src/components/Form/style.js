@@ -22,10 +22,10 @@ const styles = StyleSheet.create({
       alignItems:"center"
     },
     inputForm: {
-      backgroundColor:"rgba(2, 163, 74, 0.4)",
+      backgroundColor:"rgba(2, 163, 74, 0.3)",
       padding:10,
       borderRadius: 15,
-      width:200,
+      width:250,
       height:"auto",
     },
     buttonForm: {
@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
       borderRadius: 15,
       marginTop: 20,
       opacity:10,
-      backgroundColor:"black"
+      backgroundColor:"rgb(2, 163, 74)"
     },
     textButtonForm: {
       color:"white",
